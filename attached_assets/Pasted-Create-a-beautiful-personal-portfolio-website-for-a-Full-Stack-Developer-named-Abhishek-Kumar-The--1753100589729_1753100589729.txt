@@ -1,0 +1,101 @@
+Create a beautiful, personal portfolio website for a Full Stack Developer named Abhishek Kumar. The website should look elegant, modern, and engaging with smooth scroll animations and a clean layout.
+
+🏠 Home Section (Hero):
+Bold headline: “Hi, I’m Abhishek Kumar – Full Stack Developer at Lion Group”
+
+Subheadline: “Welcome to my digital journey. Learn everything about me.”
+
+High-resolution profile photo
+
+Soft animated background or gradient
+
+Smooth scroll button: “Explore My Story”
+
+👤 About Me Section:
+Display all personal information clearly in table or card layout.
+Include the following details:
+
+Full Name: Abhishek Kumar
+
+Date of Birth: 08 February 1999
+
+Address: Jamshedpur, Jharkhand
+
+Email: princeabhishek684@gmail.com
+
+Phone: 8789457242
+
+Languages: English, Hindi
+
+Current Role: Full Stack Developer at Lion Group
+
+👨‍👩‍👧‍👦 Family Information Section:
+Use a clean table or grid layout to show family members:
+
+Father: Chandrashekhar Prasad Singh – Tata Motors Permanent Employee
+
+Mother: Chandrawati Devi – Homemaker
+
+Sister: Tamanna Kumar – Medical Student at RIMS College
+
+Grandfather: Ram Bachan Prasad Singh – Former Tata Motors Employee
+
+Grandmother: Chandrawati Devi – Former Government School Teacher
+
+🎓 Education Timeline Section:
+Use vertical timeline or cards to show the education path with years:
+
+MCA (Pursuing – 2025)
+
+B.Tech – Electronics & Communication Engineering (2019–2023)
+
+Advanced Diploma in Machine Maintenance & Automation – IDTR Jamshedpur (2021)
+
+Diploma – Electronics & Communication Engineering (2016–2019)
+
+Intermediate (Pure Science) – 2014–2016
+
+Matric (10th – CBSE Board) – 2014
+
+Web Development Course – AlmaBetter (2023)
+
+💼 Work Profile Section:
+Current Company: Lion Group
+
+Role: Full Stack Developer
+
+Projects: School Websites, Shops, Restaurants, Gyms, Saloons
+
+Description: Able to design full responsive front-end & back-end systems with focus on client satisfaction
+
+🖼️ Image Gallery Section:
+Multiple high-resolution images in grid layout
+
+On-click: Open fullscreen in lightbox
+
+Features: Zoom-in/out, pan, swipe support
+
+Optional categories: Personal | Certificates | Projects | Events
+
+📞 Contact Section:
+Simple contact form (Name, Email, Message)
+
+Add clickable WhatsApp, Phone, and Email icons
+
+Optional: Embed map with Jamshedpur location
+
+📜 Footer:
+Text: “Website Designed & Developed by Abhishek Kumar”
+
+Copyright © 2025 Abhishek Kumar
+
+🎨 Design Requirements:
+Use modern UI/UX design with clean spacing
+
+Responsive for mobile, tablet, and desktop
+
+Smooth scroll and scroll-based animations (e.g., fade-in, slide-up)
+
+Elegant fonts, interactive hover effects
+
+Fast-loading and high-performance visuals
